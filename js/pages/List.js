@@ -122,6 +122,7 @@ export default {
                     </p>
                     <p>
                     The top 10 easy demons NEED audible clicks, or the record will be denied.
+                    </p>
                 </div>
             </div>
         </main>
